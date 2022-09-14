@@ -11,7 +11,7 @@
 
 - Fork (typically created using the GitHub web interface only): 
 
-- Local Clone (typically created using the Git CLI with 'git clone` only): 
+- Local Clone (typically created using the Git CLI with `git clone` only): 
 
 - Branch (created using the GitHub web interface, or using the Git CLI with `git branch` or `git checkout`): 
 
