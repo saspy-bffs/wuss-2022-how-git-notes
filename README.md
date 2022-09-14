@@ -18,11 +18,11 @@
 
 ##### Managing Code Edits:
 
-- Stage Changes (typically created using the Git CLI with 'git add` only):
+- Stage Changes (typically created using the Git CLI with `git add` only):
 
 - Commit Changes (created using the GitHub web interface, or using the Git CLI with `git commit`): 
 
-- Publish Changes to Remote Clone (typically created using the Git CLI with 'git push` only): 
+- Publish Changes to Remote Clone (typically created using the Git CLI with `git push` only): 
 
 - Pull Request or PR (typically created using the GitHub web interface only): 
 
