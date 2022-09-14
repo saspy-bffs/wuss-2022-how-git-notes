@@ -7,7 +7,7 @@
 
 ##### Managing Code Repositories:
 
-- Repo (created using the GitHub web interface, or using the Git CLI with `git init`):
+- Repo (created using the GitHub web interface, or using the Git CLI with `git init`): (a central location in which data is stored and managed.)
 
 - Fork (typically created using the GitHub web interface only): 
 
