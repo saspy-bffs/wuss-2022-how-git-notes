@@ -18,13 +18,13 @@
 
 ##### Managing Code Edits:
 
-- Stage Changes (typically created using the Git CLI with `git add` only):
+- Stage Changes (typically created using the Git CLI with `git add` only): report is short
 
-- Commit Changes (created using the GitHub web interface, or using the Git CLI with `git commit`): 
+- Commit Changes (created using the GitHub web interface, or using the Git CLI with `git commit`): a fork is an independant of copy
 
 - Publish Changes to Remote Clone (typically created using the Git CLI with `git push` only): 
 
-- Pull Request or PR (typically created using the GitHub web interface only): 
+- Pull Request or PR (typically created using the GitHub web interface only): branch is a copy within a repro we can use to change
 
 
 #### Additional Git CLI Commands Discussed:
