@@ -7,13 +7,13 @@
 
 ##### Managing Code Repositories:
 
-- Repo (created using the GitHub web interface, or using the Git CLI with `git init`):
+- Repo (created using the GitHub web interface, or using the Git CLI with `git init`): (a central location in which data is stored and managed. )
 
-- Fork (typically created using the GitHub web interface only): 
+- Fork (typically created using the GitHub web interface only): A personal copy - separate from OG repo 
 
 - Local Clone (typically created using the Git CLI with `git clone` only): 
 
-- Branch (created using the GitHub web interface, or using the Git CLI with `git branch` or `git checkout`): 
+- Branch (created using the GitHub web interface, or using the Git CLI with `git branch` or `git checkout`): an internal working copy of forked repo (or your own repo?). 
 
 
 ##### Managing Code Edits:
